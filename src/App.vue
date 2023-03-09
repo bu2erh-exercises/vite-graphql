@@ -1,14 +1,5 @@
-<script setup></script>
+<script setup lang="ts"></script>
 
 <template>
-    <div class="app">
-        <router-view></router-view>
-    </div>
+    <div></div>
 </template>
-<style lang="less" scoped>
-.app {
-    display: flex;
-    width: 100%;
-    height: 100%;
-}
-</style>
