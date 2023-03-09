@@ -6,7 +6,6 @@ specifiers:
   '@typescript-eslint/parser': ^5.54.1
   '@vitejs/plugin-vue': ^4.0.0
   '@vue/apollo-composable': 4.0.0-beta.4
-  add: ^2.0.6
   axios: ^1.3.4
   dayjs: ^1.11.7
   eslint: ^8.35.0
@@ -44,7 +43,6 @@ specifiers:
 dependencies:
   '@apollo/client': 3.7.9_fjknlyikqnbxo2aiqib2xva2wu
   '@vue/apollo-composable': 4.0.0-beta.4_pqsns6zz5hfrhg572tvthalgbu
-  add: 2.0.6
   axios: 1.3.4
   dayjs: 1.11.7
   graphql: 16.6.0
@@ -992,10 +990,6 @@ packages:
     engines: {node: '>=0.4.0'}
     hasBin: true
     dev: true
-
-  /add/2.0.6:
-    resolution: {integrity: sha512-j5QzrmsokwWWp6kUcJQySpbG+xfOBqqKnup3OIk1pz+kB/80SLorZ9V8zHFLO92Lcd+hbvq8bT+zOGoPkmBV0Q==}
-    dev: false
 
   /agent-base/6.0.2:
     resolution: {integrity: sha512-RZNwNclF7+MS/8bDg70amg32dyeZGZxiDuQmZxKLAlQjr3jGyLx+4Kkk58UO7D2QdgFIQCovuSuZESne6RG6XQ==}
