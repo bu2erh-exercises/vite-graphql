@@ -1,6 +1,0 @@
-query grant {
-    grant {
-        total
-        data
-    }
-}
